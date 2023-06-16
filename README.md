@@ -41,9 +41,7 @@ laying. Also, the body measurements of everyone are also different so by conside
 individual’s body axis on how they enter the offices can help us to build a security system 
 that is fast and secure.
 
-While receiving all the required data through the individual's smartphone, we will now first
-analyse the data and then set the required parameters for training and prediction on differe
-nt models for the same.
+While receiving all the required data through the individual's smartphone, we will now first analyse the data and then set the required parameters for training and prediction on different models for the same.
 
 The main machine learning models that I have performed in this experiment are
 1. LSTM
